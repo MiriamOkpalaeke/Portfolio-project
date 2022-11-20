@@ -1,0 +1,93 @@
+body{
+  background-color: rgb(24, 23, 23);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+  div.main{
+    background-image: linear-gradient(to left, rgb(240, 194, 181), rgba(96, 163, 225, 0.1));
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: auto;
+  }
+  
+div.container{
+  margin: 0 auto;
+  width: 50%;
+  background-color: rgb(255, 255, 255);
+  padding:5px 20px;
+  border-radius: 20px;
+}
+ul.navigation{
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.navigation{
+  list-style-type: none;
+  padding-right: 6px;
+}
+.logo{
+  width: 80px;
+
+}
+.intro{
+  display: flex;
+}
+nav.nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  background-image: linear-gradient(to bottom, rgba(248, 223, 217, 0.66), rgba(218, 225, 237, 0.1));
+  
+}
+ul.navigation li{
+  margin-left: 30px;
+  padding-top: 20px;
+}
+.profile-picture{
+  width: 200px;
+  background-image: linear-gradient(to top, rgb(240, 194, 181), rgba(146, 198, 247, 0.1));
+  border-radius: 25%;
+}
+.intro-text{
+  padding-left: 40px;
+}
+.bottom{
+  display: flex;
+}
+.about{
+  width: 300px;
+}
+.skills span li{
+  list-style-type: none;
+  margin: 5px;
+  text-transform: uppercase;
+  font-size: 13px;
+  border: 1px solid grey;
+  padding: 2px;
+  background-color: rgba(240, 194, 181, 0.388);
+  border-radius: 3px;
+}
+.skills span{
+  display: flex;
+}
+button{
+  border: none;
+  background-color: rgb(214, 121, 96);
+  border-radius: 2px;
+  padding: 2px;
+}
+.skills{
+  padding-left: 60px;
+}
+h5{
+  color: rgb(241, 171, 152);
+}
+p{
+  color: rgb(74, 72, 72);
+}
