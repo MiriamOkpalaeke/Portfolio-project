@@ -8,3 +8,6 @@ your skill set list
 take a screenshot of your portfolio in the browser: how to screenshot
 attach the screenshot to your citrone submission and submit the link to the repository
 Note: you get full grade for both the screenshot and code. If you don’t know how to attach document on citrone ask.
+
+Link to my screenshot
+https://drive.google.com/file/d/17qmfJ7d97HGj5ciDro0vhdcOF3tk0GAs/view?usp=share_link
